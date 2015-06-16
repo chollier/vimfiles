@@ -97,3 +97,6 @@
 [submodule "bundle/vim-raml"]
 	path = bundle/vim-raml
 	url = https://github.com/kennethzfeng/vim-raml.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
